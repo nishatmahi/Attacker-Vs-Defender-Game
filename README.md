@@ -11,7 +11,7 @@ This project demonstrates applied AI decision-making, evolutionary optimization,
 
 ---
 
-## 📸 Screenshots
+## Game UI
 
 ### Opening Page
 <p align="center">
