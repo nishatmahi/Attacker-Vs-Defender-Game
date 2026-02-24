@@ -15,7 +15,8 @@ This project demonstrates applied AI decision-making, evolutionary optimization,
 
 ### Opening Page
 <p align="center">
-  <img src=""C:\Users\mahit\Pictures\Screenshots\Screenshot 2026-02-24 134412.png"" width="700" alt="Opening Page Screenshot"/>
+  <img src=""C:\Users\mahit\Pictures\Screenshots\Screenshot 2<img width="1368" height="786" alt="Screenshot 2026-02-24 134412" src="https://github.com/user-attachments/assets/d98f5025-7b5d-46de-aa4a-b953238690c5" />
+026-02-24 134412.png"" width="700" alt="Opening Page Screenshot"/>
 </p>
 
 ---
