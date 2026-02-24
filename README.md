@@ -23,14 +23,16 @@ This project demonstrates applied AI decision-making, evolutionary optimization,
 
 ### Gameplay
 <p align="center">
-  <img src="images/gameplay.png" width="700" alt="Gameplay Screenshot"/>
+  <img src="images/g<img width="1372" height="784" alt="Screenshot 2026-02-24 133834" src="https://github.com/user-attachments/assets/630cce3c-14b7-419d-a89d-a822cf3e0740" />
+ameplay.png" width="700" alt="Gameplay Screenshot"/>
 </p>
 
 ---
 
 ### Winner Screen
 <p align="center">
-  <img src="images/winner-screen.png" width="700" alt="Winner Screen Screenshot"/>
+  <img src="images/winner-screen.png" w<img width="1374" height="789" alt="Screenshot 2026-02-24 133735" src="https://github.com/user-attachments/assets/1d14ea65-525f-4810-ae8f-d322b3c2db5f" />
+idth="700" alt="Winner Screen Screenshot"/>
 </p>
 
 > Replace the image paths above with your actual screenshots.
