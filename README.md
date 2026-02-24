@@ -15,27 +15,18 @@ This project demonstrates applied AI decision-making, evolutionary optimization,
 
 ### Opening Page
 <p align="center">
-  <img src=""C:\Users\mahit\Pictures\Screenshots\Screenshot 2<img width="1368" height="786" alt="Screenshot 2026-02-24 134412" src="https://github.com/user-attachments/assets/d98f5025-7b5d-46de-aa4a-b953238690c5" />
-026-02-24 134412.png"" width="700" alt="Opening Page Screenshot"/>
+  <img src="https://github.com/user-attachments/assets/d98f5025-7b5d-46de-aa4a-b953238690c5" width="700" alt="Opening Page Screenshot"/>
 </p>
-
----
 
 ### Gameplay
 <p align="center">
-  <img src="images/g<img width="1372" height="784" alt="Screenshot 2026-02-24 133834" src="https://github.com/user-attachments/assets/630cce3c-14b7-419d-a89d-a822cf3e0740" />
-ameplay.png" width="700" alt="Gameplay Screenshot"/>
+  <img src="https://github.com/user-attachments/assets/630cce3c-14b7-419d-a89d-a822cf3e0740" width="700" alt="Gameplay Screenshot"/>
 </p>
-
----
 
 ### Winner Screen
 <p align="center">
-  <img src="images/winner-screen.png" w<img width="1374" height="789" alt="Screenshot 2026-02-24 133735" src="https://github.com/user-attachments/assets/1d14ea65-525f-4810-ae8f-d322b3c2db5f" />
-idth="700" alt="Winner Screen Screenshot"/>
+  <img src="https://github.com/user-attachments/assets/1d14ea65-525f-4810-ae8f-d322b3c2db5f" width="700" alt="Winner Screen Screenshot"/>
 </p>
-
-> Replace the image paths above with your actual screenshots.
 
 ---
 
